@@ -231,3 +231,7 @@ cscope.*
 /tests/utils/Makefile
 /tools/Makefile
 /bin/
+
+# Bazel
+bazel-*
+*.bazel.lock
